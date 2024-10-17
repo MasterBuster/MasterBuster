@@ -1,5 +1,4 @@
-# Hi there 👋
-## I am Areg Martirosyan
+# Hello there! I am Areg Martirosyan
 ## My Skills Overview
 
 | **Languages** | **Tools** | **IDEs** |
